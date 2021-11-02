@@ -1,0 +1,1367 @@
+zip,city,county,pop
+60002,Antioch,Lake,24058
+60004,Arlington Heights,Cook,50639
+60005,Arlington Heights,Cook,30079
+60007,Elk Grove Village,Cook,33161
+60008,Rolling Meadows,Cook,21663
+60010,Barrington,Lake,46455
+60012,Crystal Lake,Mchenry,10647
+60013,Cary,Mchenry,26454
+60014,Crystal Lake,Mchenry,48063
+60015,Deerfield,Lake,27529
+60016,Des Plaines,Cook,59291
+60018,Des Plaines,Cook,30037
+60020,Fox Lake,Lake,10422
+60021,Fox River Grove,Mchenry,5276
+60022,Glencoe,Cook,8471
+60025,Glenview,Cook,40935
+60026,Glenview Nas,Cook,14021
+60029,Golf,Cook,476
+60030,Grayslake,Lake,36125
+60031,Gurnee,Lake,37545
+60033,Harvard,Mchenry,13703
+60034,Hebron,Mchenry,2088
+60035,Highland Park,Lake,29636
+60040,Highwood,Lake,5310
+60041,Ingleside,Lake,8659
+60042,Island Lake,Lake,8556
+60043,Kenilworth,Cook,2460
+60044,Lake Bluff,Lake,9990
+60045,Lake Forest,Lake,21134
+60046,Lake Villa,Lake,34596
+60047,Lake Zurich,Lake,42608
+60048,Libertyville,Lake,29033
+60050,Mchenry,Mchenry,32565
+60051,Mchenry,Mchenry,22808
+60053,Morton Grove,Cook,23089
+60056,Mount Prospect,Cook,54524
+60060,Mundelein,Lake,37544
+60061,Vernon Hills,Lake,26967
+60062,Northbrook,Cook,40686
+60064,North Chicago,Lake,15490
+60067,Palatine,Cook,37840
+60068,Park Ridge,Cook,37433
+60069,Lincolnshire,Lake,8225
+60070,Prospect Heights,Cook,15908
+60071,Richmond,Mchenry,3737
+60072,Ringwood,Mchenry,1051
+60073,Round Lake,Lake,61592
+60074,Palatine,Cook,39217
+60076,Skokie,Cook,31788
+60077,Skokie,Cook,27626
+60081,Spring Grove,Mchenry,9379
+60083,Wadsworth,Lake,10094
+60084,Wauconda,Lake,16613
+60085,Waukegan,Lake,70700
+60087,Waukegan,Lake,26429
+60088,Great Lakes,Lake,12816
+60089,Buffalo Grove,Lake,41014
+60090,Wheeling,Cook,38553
+60091,Wilmette,Cook,27165
+60093,Winnetka,Cook,19409
+60096,Winthrop Harbor,Lake,6733
+60097,Wonder Lake,Mchenry,10728
+60098,Woodstock,Mchenry,32972
+60099,Zion,Lake,30145
+60101,Addison,Du Page,38856
+60102,Algonquin,Mchenry,32663
+60103,Bartlett,Cook,41755
+60104,Bellwood,Cook,18904
+60106,Bensenville,Du Page,20341
+60107,Streamwood,Cook,39894
+60108,Bloomingdale,Du Page,22494
+60109,Burlington,Kane,614
+60110,Carpentersville,Kane,38984
+60111,Clare,De Kalb,163
+60112,Cortland,De Kalb,4422
+60113,Creston,Ogle,307
+60115,Dekalb,De Kalb,45268
+60118,Dundee,Kane,16050
+60119,Elburn,Kane,10119
+60120,Elgin,Kane,50573
+60123,Elgin,Kane,48948
+60126,Elmhurst,Du Page,49027
+60129,Esmond,De Kalb,286
+60130,Forest Park,Cook,13927
+60131,Franklin Park,Cook,17834
+60133,Hanover Park,Cook,38113
+60134,Geneva,Kane,29458
+60135,Genoa,De Kalb,7058
+60136,Gilberts,Kane,7823
+60137,Glen Ellyn,Du Page,37760
+60139,Glendale Heights,Du Page,34160
+60140,Hampshire,Kane,18568
+60141,Hines,Cook,302
+60142,Huntley,Mchenry,28647
+60143,Itasca,Du Page,11222
+60144,Kaneville,Kane,56
+60145,Kingston,De Kalb,2756
+60146,Kirkland,De Kalb,2390
+60148,Lombard,Du Page,52588
+60150,Malta,De Kalb,1934
+60151,Maple Park,Kane,4075
+60152,Marengo,Mchenry,12186
+60153,Maywood,Cook,23578
+60154,Westchester,Cook,16440
+60155,Broadview,Cook,7755
+60156,Lake In The Hills,Mchenry,28809
+60157,Medinah,Du Page,2970
+60160,Melrose Park,Cook,25666
+60162,Hillside,Cook,8176
+60163,Berkeley,Cook,5103
+60164,Melrose Park,Cook,21228
+60165,Stone Park,Cook,4894
+60171,River Grove,Cook,10076
+60172,Roselle,Du Page,24371
+60173,Schaumburg,Cook,12610
+60174,Saint Charles,Kane,31219
+60175,Saint Charles,Kane,26298
+60176,Schiller Park,Cook,11621
+60177,South Elgin,Kane,23310
+60178,Sycamore,De Kalb,22374
+60180,Union,Mchenry,1813
+60181,Villa Park,Du Page,28755
+60184,Wayne,Du Page,2428
+60185,West Chicago,Du Page,36100
+60187,Wheaton,Du Page,29976
+60188,Carol Stream,Du Page,42214
+60189,Wheaton,Du Page,29999
+60190,Winfield,Du Page,11375
+60191,Wood Dale,Du Page,14021
+60192,Schaumburg,Cook,15467
+60193,Schaumburg,Cook,39646
+60194,Schaumburg,Cook,19525
+60195,Schaumburg,Cook,5020
+60201,Evanston,Cook,41884
+60202,Evanston,Cook,32703
+60203,Evanston,Cook,4397
+60301,Oak Park,Cook,2831
+60302,Oak Park,Cook,31620
+60304,Oak Park,Cook,17782
+60305,River Forest,Cook,10970
+60401,Beecher,Will,7990
+60402,Berwyn,Cook,62960
+60406,Blue Island,Cook,25338
+60407,Braceville,Grundy,1597
+60408,Braidwood,Will,5528
+60409,Calumet City,Cook,36658
+60410,Channahon,Will,12965
+60411,Chicago Heights,Cook,57603
+60415,Chicago Ridge,Cook,14123
+60416,Coal City,Grundy,9083
+60417,Crete,Will,15073
+60419,Dolton,Cook,22436
+60420,Dwight,Livingston,4846
+60421,Elwood,Will,3810
+60422,Flossmoor,Cook,9941
+60423,Frankfort,Will,31418
+60424,Gardner,Grundy,2326
+60425,Glenwood,Cook,8842
+60426,Harvey,Cook,28683
+60429,Hazel Crest,Cook,15108
+60430,Homewood,Cook,19691
+60431,Joliet,Will,24202
+60432,Joliet,Will,20062
+60433,Joliet,Will,16398
+60435,Joliet,Will,49390
+60436,Joliet,Will,17903
+60437,Kinsman,Grundy,164
+60438,Lansing,Cook,28633
+60439,Lemont,Du Page,23435
+60440,Bolingbrook,Will,52273
+60441,Lockport,Will,35583
+60442,Manhattan,Will,10679
+60443,Matteson,Cook,21554
+60444,Mazon,Grundy,1861
+60445,Midlothian,Cook,25810
+60446,Romeoville,Will,40118
+60447,Minooka,Grundy,13856
+60448,Mokena,Will,26220
+60449,Monee,Will,9362
+60450,Morris,Grundy,20906
+60451,New Lenox,Will,35622
+60452,Oak Forest,Cook,28008
+60453,Oak Lawn,Cook,55966
+60455,Bridgeview,Cook,16144
+60456,Hometown,Cook,4272
+60457,Hickory Hills,Cook,13816
+60458,Justice,Cook,15197
+60459,Burbank,Cook,28709
+60460,Odell,Livingston,1397
+60461,Olympia Fields,Cook,4716
+60462,Orland Park,Cook,39784
+60463,Palos Heights,Cook,14798
+60464,Palos Park,Cook,9662
+60465,Palos Hills,Cook,17345
+60466,Park Forest,Cook,21909
+60467,Orland Park,Cook,26861
+60468,Peotone,Will,6005
+60469,Posen,Cook,5795
+60470,Ransom,La Salle,542
+60471,Richton Park,Cook,13917
+60472,Robbins,Cook,4904
+60473,South Holland,Cook,22088
+60474,South Wilmington,Grundy,824
+60475,Steger,Cook,9664
+60476,Thornton,Cook,2550
+60477,Tinley Park,Cook,37542
+60478,Country Club Hills,Cook,16769
+60479,Verona,Grundy,925
+60480,Willow Springs,Cook,5151
+60481,Wilmington,Will,11809
+60482,Worth,Cook,10849
+60490,Bolingbrook,Will,22158
+60501,Summit Argo,Cook,11874
+60504,Aurora,Du Page,39070
+60505,Aurora,Kane,74726
+60506,Aurora,Kane,55542
+60510,Batavia,Kane,29332
+60511,Big Rock,Kane,1805
+60512,Bristol,Kendall,1010
+60513,Brookfield,Cook,18753
+60514,Clarendon Hills,Du Page,9943
+60515,Downers Grove,Du Page,28290
+60516,Downers Grove,Du Page,29208
+60517,Woodridge,Du Page,32390
+60518,Earlville,La Salle,3715
+60519,Eola,Du Page,24
+60520,Hinckley,De Kalb,2855
+60521,Hinsdale,Du Page,18415
+60523,Oak Brook,Du Page,10081
+60525,La Grange,Cook,30474
+60526,La Grange Park,Cook,13451
+60527,Willowbrook,Du Page,28534
+60530,Lee,Lee,483
+60531,Leland,La Salle,1792
+60532,Lisle,Du Page,27956
+60534,Lyons,Cook,10452
+60536,Millbrook,Kendall,139
+60537,Millington,Kendall,573
+60538,Montgomery,Kendall,29343
+60539,Mooseheart,Kane,223
+60540,Naperville,Du Page,45187
+60541,Newark,Kendall,3667
+60542,North Aurora,Kane,18191
+60543,Oswego,Kendall,40293
+60544,Plainfield,Will,27426
+60545,Plano,Kendall,13699
+60546,Riverside,Cook,15405
+60548,Sandwich,De Kalb,12054
+60549,Serena,La Salle,190
+60550,Shabbona,De Kalb,1553
+60551,Sheridan,La Salle,5284
+60552,Somonauk,De Kalb,4348
+60553,Steward,Lee,688
+60554,Sugar Grove,Kane,12194
+60555,Warrenville,Du Page,13273
+60556,Waterman,De Kalb,2124
+60557,Wedron,La Salle,280
+60558,Western Springs,Cook,13272
+60559,Westmont,Du Page,24384
+60560,Yorkville,Kendall,25140
+60561,Darien,Du Page,22955
+60563,Naperville,Du Page,37705
+60564,Naperville,Will,42425
+60565,Naperville,Du Page,40560
+60601,Chicago,Cook,15083
+60602,Chicago,Cook,1145
+60603,Chicago,Cook,1052
+60604,Chicago,Cook,823
+60605,Chicago,Cook,29060
+60606,Chicago,Cook,3287
+60607,Chicago,Cook,29293
+60608,Chicago,Cook,80059
+60609,Chicago,Cook,60939
+60610,Chicago,Cook,40548
+60611,Chicago,Cook,33224
+60612,Chicago,Cook,33735
+60613,Chicago,Cook,50761
+60614,Chicago,Cook,71954
+60615,Chicago,Cook,40590
+60616,Chicago,Cook,54197
+60617,Chicago,Cook,83553
+60618,Chicago,Cook,94907
+60619,Chicago,Cook,61207
+60620,Chicago,Cook,67711
+60621,Chicago,Cook,28018
+60622,Chicago,Cook,53294
+60623,Chicago,Cook,81283
+60624,Chicago,Cook,34892
+60625,Chicago,Cook,79444
+60626,Chicago,Cook,50544
+60628,Chicago,Cook,64254
+60629,Chicago,Cook,110029
+60630,Chicago,Cook,56433
+60631,Chicago,Cook,29529
+60632,Chicago,Cook,89857
+60633,Chicago,Cook,12689
+60634,Chicago,Cook,75082
+60636,Chicago,Cook,30024
+60637,Chicago,Cook,47300
+60638,Chicago,Cook,58669
+60639,Chicago,Cook,88204
+60640,Chicago,Cook,69363
+60641,Chicago,Cook,69880
+60643,Chicago,Cook,48887
+60644,Chicago,Cook,46591
+60645,Chicago,Cook,47270
+60646,Chicago,Cook,28569
+60647,Chicago,Cook,87633
+60649,Chicago,Cook,46633
+60651,Chicago,Cook,63492
+60652,Chicago,Cook,43447
+60653,Chicago,Cook,33154
+60654,Chicago,Cook,20022
+60655,Chicago,Cook,28569
+60656,Chicago,Cook,28218
+60657,Chicago,Cook,70958
+60659,Chicago,Cook,42735
+60660,Chicago,Cook,44498
+60661,Chicago,Cook,10354
+60706,Harwood Heights,Cook,23114
+60707,Elmwood Park,Cook,43093
+60712,Lincolnwood,Cook,12434
+60714,Niles,Cook,29520
+60803,Alsip,Cook,22405
+60804,Cicero,Cook,82383
+60805,Evergreen Park,Cook,19479
+60827,Riverdale,Cook,28483
+60901,Kankakee,Kankakee,35407
+60910,Aroma Park,Kankakee,575
+60911,Ashkum,Iroquois,1311
+60912,Beaverville,Iroquois,502
+60913,Bonfield,Kankakee,1413
+60914,Bourbonnais,Kankakee,29797
+60915,Bradley,Kankakee,10278
+60917,Buckingham,Kankakee,538
+60918,Buckley,Iroquois,717
+60919,Cabery,Ford,482
+60920,Campus,Livingston,169
+60921,Chatsworth,Livingston,1512
+60922,Chebanse,Iroquois,2576
+60924,Cissna Park,Iroquois,1515
+60926,Claytonville,Iroquois,42
+60927,Clifton,Iroquois,2053
+60928,Crescent City,Iroquois,675
+60929,Cullom,Livingston,707
+60930,Danforth,Iroquois,985
+60931,Donovan,Iroquois,591
+60932,East Lynn,Vermilion,61
+60933,Elliott,Ford,272
+60934,Emington,Livingston,233
+60935,Essex,Kankakee,1229
+60936,Gibson City,Ford,4074
+60938,Gilman,Iroquois,1975
+60940,Grant Park,Kankakee,3170
+60941,Herscher,Kankakee,2200
+60942,Hoopeston,Vermilion,5898
+60945,Iroquois,Iroquois,179
+60946,Kempton,Ford,404
+60948,Loda,Iroquois,1570
+60949,Ludlow,Champaign,488
+60950,Manteno,Kankakee,11592
+60951,Martinton,Iroquois,803
+60952,Melvin,Ford,657
+60953,Milford,Iroquois,2425
+60954,Momence,Kankakee,5820
+60955,Onarga,Iroquois,1655
+60957,Paxton,Ford,5311
+60959,Piper City,Ford,1081
+60960,Rankin,Vermilion,1036
+60961,Reddick,Kankakee,786
+60962,Roberts,Ford,539
+60963,Rossville,Vermilion,1715
+60964,Saint Anne,Kankakee,4857
+60966,Sheldon,Iroquois,1541
+60968,Thawville,Iroquois,474
+60969,Union Hill,Kankakee,78
+60970,Watseka,Iroquois,6753
+60973,Wellington,Iroquois,345
+60974,Woodland,Iroquois,211
+61001,Apple River,Jo Daviess,1074
+61006,Ashton,Lee,1841
+61007,Baileyville,Ogle,502
+61008,Belvidere,Boone,33935
+61010,Byron,Ogle,7650
+61011,Caledonia,Boone,2497
+61012,Capron,Boone,2496
+61013,Cedarville,Stephenson,456
+61014,Chadwick,Carroll,989
+61015,Chana,Ogle,1049
+61016,Cherry Valley,Winnebago,4627
+61018,Dakota,Stephenson,962
+61019,Davis,Stephenson,3309
+61020,Davis Junction,Ogle,3040
+61021,Dixon,Lee,22848
+61024,Durand,Winnebago,2465
+61025,East Dubuque,Jo Daviess,4654
+61027,Eleroy,Stephenson,73
+61028,Elizabeth,Jo Daviess,1986
+61030,Forreston,Ogle,2249
+61031,Franklin Grove,Lee,1569
+61032,Freeport,Stephenson,29702
+61036,Galena,Jo Daviess,6414
+61037,Galt,Whiteside,64
+61038,Garden Prairie,Boone,1280
+61039,German Valley,Stephenson,953
+61041,Hanover,Jo Daviess,1162
+61042,Harmon,Lee,625
+61043,Holcomb,Ogle,121
+61044,Kent,Stephenson,272
+61046,Lanark,Carroll,2330
+61047,Leaf River,Ogle,1669
+61048,Lena,Stephenson,3807
+61049,Lindenwood,Ogle,543
+61050,Mc Connell,Stephenson,455
+61051,Milledgeville,Carroll,1634
+61052,Monroe Center,Ogle,846
+61053,Mount Carroll,Carroll,2681
+61054,Mount Morris,Ogle,3657
+61057,Nachusa,Lee,97
+61059,Nora,Jo Daviess,202
+61060,Orangeville,Stephenson,1357
+61061,Oregon,Ogle,6434
+61062,Pearl City,Stephenson,1842
+61063,Pecatonica,Winnebago,4503
+61064,Polo,Ogle,3916
+61065,Poplar Grove,Boone,10700
+61067,Ridott,Stephenson,733
+61068,Rochelle,Ogle,14246
+61070,Rock City,Stephenson,1374
+61071,Rock Falls,Whiteside,13982
+61072,Rockton,Winnebago,11345
+61073,Roscoe,Winnebago,19501
+61074,Savanna,Carroll,4238
+61075,Scales Mound,Jo Daviess,976
+61077,Seward,Winnebago,33
+61078,Shannon,Carroll,1299
+61079,Shirland,Winnebago,189
+61080,South Beloit,Winnebago,10479
+61081,Sterling,Whiteside,21121
+61084,Stillman Valley,Ogle,3061
+61085,Stockton,Jo Daviess,3352
+61087,Warren,Jo Daviess,1563
+61088,Winnebago,Winnebago,6216
+61089,Winslow,Stephenson,739
+61091,Woosung,Ogle,67
+61101,Rockford,Winnebago,19242
+61102,Rockford,Winnebago,17721
+61103,Rockford,Winnebago,23512
+61104,Rockford,Winnebago,19492
+61107,Rockford,Winnebago,30116
+61108,Rockford,Winnebago,28205
+61109,Rockford,Winnebago,26910
+61111,Loves Park,Winnebago,23260
+61112,Rockford,Winnebago,62
+61114,Rockford,Winnebago,15958
+61115,Machesney Park,Winnebago,22502
+61201,Rock Island,Rock Island,38024
+61230,Albany,Whiteside,1037
+61231,Aledo,Mercer,5216
+61232,Andalusia,Rock Island,1318
+61234,Annawan,Henry,1230
+61235,Atkinson,Henry,1498
+61236,Barstow,Rock Island,98
+61238,Cambridge,Henry,3369
+61239,Carbon Cliff,Rock Island,1122
+61240,Coal Valley,Rock Island,5842
+61241,Colona,Henry,7035
+61242,Cordova,Rock Island,1322
+61243,Deer Grove,Whiteside,241
+61244,East Moline,Rock Island,23361
+61250,Erie,Whiteside,2489
+61251,Fenton,Whiteside,357
+61252,Fulton,Whiteside,5293
+61254,Geneseo,Henry,11003
+61256,Hampton,Rock Island,2088
+61257,Hillsdale,Rock Island,1112
+61258,Hooppole,Henry,184
+61259,Illinois City,Rock Island,1158
+61260,Joy,Mercer,964
+61261,Lyndon,Whiteside,903
+61262,Lynn Center,Henry,1039
+61263,Matherville,Mercer,743
+61264,Milan,Rock Island,10485
+61265,Moline,Rock Island,43472
+61270,Morrison,Whiteside,6938
+61272,New Boston,Mercer,1170
+61273,Orion,Henry,3176
+61274,Osco,Henry,267
+61275,Port Byron,Rock Island,4710
+61276,Preemption,Mercer,63
+61277,Prophetstown,Whiteside,3225
+61278,Rapids City,Rock Island,514
+61279,Reynolds,Rock Island,909
+61281,Sherrard,Mercer,2460
+61282,Silvis,Rock Island,7732
+61283,Tampico,Whiteside,1909
+61284,Taylor Ridge,Rock Island,1973
+61285,Thomson,Carroll,1650
+61301,La Salle,La Salle,9807
+61310,Amboy,Lee,3825
+61311,Ancona,Livingston,226
+61312,Arlington,Bureau,485
+61313,Blackstone,Livingston,203
+61314,Buda,Bureau,952
+61315,Bureau,Bureau,240
+61316,Cedar Point,La Salle,250
+61317,Cherry,Bureau,405
+61318,Compton,Lee,774
+61319,Cornell,Livingston,1440
+61320,Dalzell,Bureau,681
+61321,Dana,La Salle,312
+61322,Depue,Bureau,1601
+61323,Dover,Bureau,78
+61324,Eldena,Lee,128
+61325,Grand Ridge,La Salle,1062
+61326,Granville,Putnam,2314
+61327,Hennepin,Putnam,1278
+61328,Kasbeer,Bureau,26
+61329,Ladd,Bureau,1211
+61330,La Moille,Bureau,1395
+61331,Lee Center,Lee,18
+61332,Leonore,La Salle,125
+61333,Long Point,Livingston,383
+61334,Lostant,La Salle,722
+61335,Mc Nabb,Putnam,403
+61336,Magnolia,Putnam,484
+61337,Malden,Bureau,458
+61338,Manlius,Bureau,226
+61340,Mark,Putnam,263
+61341,Marseilles,La Salle,8053
+61342,Mendota,La Salle,8435
+61344,Mineral,Bureau,364
+61345,Neponset,Bureau,720
+61346,New Bedford,Bureau,63
+61348,Oglesby,La Salle,4520
+61349,Ohio,Bureau,948
+61350,Ottawa,La Salle,24182
+61353,Paw Paw,Lee,1191
+61354,Peru,La Salle,10531
+61356,Princeton,Bureau,10627
+61358,Rutland,La Salle,293
+61359,Seatonville,Bureau,330
+61360,Seneca,La Salle,3050
+61361,Sheffield,Bureau,1198
+61362,Spring Valley,Bureau,5550
+61363,Standard,Putnam,287
+61364,Streator,La Salle,18908
+61367,Sublette,Lee,759
+61368,Tiskilwa,Bureau,1366
+61369,Toluca,Marshall,1525
+61370,Tonica,La Salle,1504
+61372,Troy Grove,La Salle,151
+61373,Utica,La Salle,2153
+61374,Van Orin,Bureau,83
+61375,Varna,Marshall,1136
+61376,Walnut,Bureau,2018
+61377,Wenona,Marshall,1393
+61378,West Brooklyn,Lee,325
+61379,Wyanet,Bureau,1291
+61401,Galesburg,Knox,32937
+61410,Abingdon,Knox,3921
+61411,Adair,Mcdonough,397
+61412,Alexis,Mercer,1400
+61413,Alpha,Henry,932
+61414,Altona,Knox,958
+61415,Avon,Fulton,1954
+61416,Bardolph,Mcdonough,256
+61417,Berwick,Warren,277
+61418,Biggsville,Henderson,576
+61419,Bishop Hill,Henry,118
+61420,Blandinsville,Mcdonough,1172
+61421,Bradford,Stark,1481
+61422,Bushnell,Mcdonough,3175
+61423,Cameron,Warren,639
+61424,Camp Grove,Marshall,119
+61425,Carman,Henderson,435
+61426,Castleton,Stark,147
+61427,Cuba,Fulton,2174
+61428,Dahinda,Knox,1071
+61430,East Galesburg,Knox,654
+61431,Ellisville,Fulton,252
+61432,Fairview,Fulton,675
+61433,Fiatt,Fulton,128
+61434,Galva,Henry,2876
+61435,Gerlaw,Warren,23
+61436,Gilson,Knox,732
+61437,Gladstone,Henderson,743
+61438,Good Hope,Mcdonough,842
+61439,Henderson,Knox,215
+61440,Industry,Mcdonough,695
+61441,Ipava,Fulton,955
+61442,Keithsburg,Mercer,657
+61443,Kewanee,Henry,13736
+61447,Kirkwood,Warren,1069
+61448,Knoxville,Knox,3814
+61449,La Fayette,Stark,299
+61450,La Harpe,Hancock,1662
+61451,Laura,Peoria,333
+61452,Littleton,Schuyler,216
+61453,Little York,Warren,557
+61454,Lomax,Henderson,484
+61455,Macomb,Mcdonough,20294
+61458,Maquon,Knox,636
+61459,Marietta,Fulton,388
+61460,Media,Henderson,313
+61462,Monmouth,Warren,11435
+61465,New Windsor,Mercer,1162
+61466,North Henderson,Mercer,295
+61467,Oneida,Knox,1107
+61468,Opheim,Henry,206
+61469,Oquawka,Henderson,2213
+61470,Prairie City,Mcdonough,499
+61471,Raritan,Henderson,114
+61472,Rio,Knox,608
+61473,Roseville,Warren,1429
+61474,Saint Augustine,Knox,257
+61475,Sciota,Mcdonough,249
+61476,Seaton,Mercer,433
+61477,Smithfield,Fulton,511
+61478,Smithshire,Warren,293
+61479,Speer,Stark,59
+61480,Stronghurst,Henderson,1171
+61482,Table Grove,Fulton,598
+61483,Toulon,Stark,1923
+61484,Vermont,Fulton,880
+61485,Victoria,Knox,433
+61486,Viola,Mercer,1514
+61488,Wataga,Knox,1149
+61489,Williamsfield,Knox,767
+61490,Woodhull,Henry,1082
+61491,Wyoming,Stark,1922
+61501,Astoria,Fulton,1545
+61516,Benson,Woodford,784
+61517,Brimfield,Peoria,3439
+61519,Bryant,Fulton,246
+61520,Canton,Fulton,16703
+61523,Chillicothe,Peoria,11055
+61524,Dunfermline,Fulton,300
+61525,Dunlap,Peoria,8912
+61526,Edelstein,Peoria,743
+61528,Edwards,Peoria,2987
+61529,Elmwood,Peoria,2809
+61530,Eureka,Woodford,6931
+61531,Farmington,Fulton,3285
+61532,Forest City,Mason,588
+61533,Glasford,Peoria,2360
+61534,Green Valley,Tazewell,1835
+61535,Groveland,Tazewell,2003
+61536,Hanna City,Peoria,2866
+61537,Henry,Marshall,2904
+61539,Kingston Mines,Peoria,173
+61540,Lacon,Marshall,2680
+61541,La Rose,Marshall,76
+61542,Lewistown,Fulton,3602
+61543,Liverpool,Fulton,137
+61544,London Mills,Fulton,724
+61545,Lowpoint,Woodford,697
+61546,Manito,Mason,3605
+61547,Mapleton,Peoria,4047
+61548,Metamora,Woodford,12171
+61550,Morton,Tazewell,17805
+61552,Mossville,Peoria,191
+61553,Norris,Fulton,161
+61554,Pekin,Tazewell,41661
+61559,Princeville,Stark,3223
+61560,Putnam,Putnam,594
+61561,Roanoke,Woodford,2507
+61562,Rome,Peoria,45
+61563,Saint David,Fulton,509
+61564,South Pekin,Tazewell,1082
+61565,Sparland,Marshall,1460
+61567,Topeka,Mason,506
+61568,Tremont,Tazewell,4352
+61569,Trivoli,Peoria,1225
+61570,Washburn,Marshall,1946
+61571,Washington,Tazewell,24903
+61572,Yates City,Knox,1290
+61602,Peoria,Peoria,828
+61603,Peoria,Peoria,16695
+61604,Peoria,Peoria,29606
+61605,Peoria,Peoria,15195
+61606,Peoria,Peoria,7919
+61607,Peoria,Peoria,10766
+61610,Creve Coeur,Tazewell,5213
+61611,East Peoria,Tazewell,24303
+61614,Peoria,Peoria,28207
+61615,Peoria,Peoria,23219
+61616,Peoria,Peoria,5860
+61625,Peoria,Peoria,378
+61701,Bloomington,Mclean,35669
+61704,Bloomington,Mclean,36612
+61720,Anchor,Mclean,215
+61721,Armington,Tazewell,574
+61722,Arrowsmith,Mclean,525
+61723,Atlanta,Logan,2689
+61724,Bellflower,Mclean,578
+61725,Carlock,Mclean,1726
+61726,Chenoa,Mclean,2476
+61727,Clinton,Dewitt,9742
+61728,Colfax,Mclean,1365
+61729,Congerville,Woodford,1149
+61730,Cooksville,Mclean,513
+61731,Cropsey,Mclean,183
+61732,Danvers,Mclean,2024
+61733,Deer Creek,Tazewell,793
+61734,Delavan,Tazewell,2792
+61735,Dewitt,Dewitt,361
+61736,Downs,Mclean,1874
+61737,Ellsworth,Mclean,490
+61738,El Paso,Woodford,4391
+61739,Fairbury,Livingston,4614
+61740,Flanagan,Livingston,1482
+61741,Forrest,Livingston,1643
+61742,Goodfield,Woodford,1263
+61743,Graymont,Livingston,186
+61744,Gridley,Mclean,1923
+61745,Heyworth,Mclean,4658
+61747,Hopedale,Tazewell,1439
+61748,Hudson,Mclean,2652
+61749,Kenney,Dewitt,535
+61750,Lane,Dewitt,135
+61751,Lawndale,Logan,93
+61752,Le Roy,Mclean,4346
+61753,Lexington,Mclean,3083
+61754,Mc Lean,Mclean,1016
+61755,Mackinaw,Tazewell,4783
+61756,Maroa,Macon,2313
+61759,Minier,Tazewell,1588
+61760,Minonk,Woodford,2306
+61761,Normal,Mclean,55152
+61764,Pontiac,Livingston,13732
+61769,Saunemin,Livingston,640
+61770,Saybrook,Mclean,1046
+61771,Secor,Woodford,855
+61772,Shirley,Mclean,239
+61773,Sibley,Ford,421
+61774,Stanford,Mclean,979
+61775,Strawn,Livingston,339
+61776,Towanda,Mclean,1216
+61777,Wapella,Dewitt,780
+61778,Waynesville,Dewitt,649
+61801,Urbana,Champaign,31312
+61802,Urbana,Champaign,19509
+61810,Allerton,Vermilion,285
+61811,Alvin,Vermilion,709
+61812,Armstrong,Vermilion,387
+61813,Bement,Piatt,1598
+61814,Bismarck,Vermilion,1072
+61815,Bondville,Champaign,261
+61816,Broadlands,Champaign,483
+61817,Catlin,Vermilion,2528
+61818,Cerro Gordo,Piatt,1814
+61820,Champaign,Champaign,38393
+61821,Champaign,Champaign,31207
+61822,Champaign,Champaign,25530
+61830,Cisco,Piatt,390
+61831,Collison,Vermilion,139
+61832,Danville,Vermilion,34421
+61833,Tilton,Vermilion,2261
+61834,Danville,Vermilion,8625
+61839,De Land,Piatt,664
+61840,Dewey,Champaign,619
+61841,Fairmount,Vermilion,1278
+61842,Farmer City,Dewitt,2765
+61843,Fisher,Champaign,2494
+61844,Fithian,Vermilion,755
+61845,Foosland,Champaign,324
+61846,Georgetown,Vermilion,4900
+61847,Gifford,Champaign,1365
+61848,Henning,Vermilion,242
+61849,Homer,Champaign,1903
+61850,Indianola,Vermilion,450
+61851,Ivesdale,Champaign,334
+61852,Longview,Champaign,222
+61853,Mahomet,Champaign,13875
+61854,Mansfield,Piatt,1193
+61855,Milmine,Piatt,133
+61856,Monticello,Piatt,7771
+61857,Muncie,Vermilion,144
+61858,Oakwood,Vermilion,2980
+61859,Ogden,Champaign,1276
+61862,Penfield,Champaign,564
+61863,Pesotum,Champaign,872
+61864,Philo,Champaign,1770
+61865,Potomac,Vermilion,1642
+61866,Rantoul,Champaign,14163
+61870,Ridge Farm,Vermilion,1265
+61871,Royal,Champaign,314
+61872,Sadorus,Champaign,589
+61873,Saint Joseph,Champaign,6308
+61874,Savoy,Champaign,7982
+61875,Seymour,Champaign,986
+61876,Sidell,Vermilion,636
+61877,Sidney,Champaign,1792
+61878,Thomasboro,Champaign,1224
+61880,Tolono,Champaign,4075
+61882,Weldon,Dewitt,653
+61883,Westville,Vermilion,4289
+61884,White Heath,Piatt,1031
+61910,Arcola,Douglas,4477
+61911,Arthur,Douglas,5330
+61912,Ashmore,Coles,1176
+61913,Atwood,Douglas,1410
+61914,Bethany,Moultrie,1817
+61917,Brocton,Edgar,632
+61919,Camargo,Douglas,906
+61920,Charleston,Coles,23839
+61924,Chrisman,Edgar,2299
+61925,Dalton City,Moultrie,776
+61928,Gays,Moultrie,596
+61929,Hammond,Piatt,679
+61930,Hindsboro,Douglas,859
+61931,Humboldt,Coles,1190
+61932,Hume,Edgar,442
+61933,Kansas,Edgar,872
+61936,La Place,Piatt,297
+61937,Lovington,Moultrie,1967
+61938,Mattoon,Coles,21727
+61940,Metcalf,Edgar,253
+61941,Murdock,Douglas,87
+61942,Newman,Douglas,898
+61943,Oakland,Coles,1630
+61944,Paris,Edgar,12311
+61949,Redmon,Edgar,129
+61951,Sullivan,Moultrie,7817
+61953,Tuscola,Douglas,6019
+61955,Vermilion,Edgar,189
+61956,Villa Grove,Douglas,2749
+61957,Windsor,Shelby,1789
+62001,Alhambra,Madison,1669
+62002,Alton,Madison,31087
+62006,Batchtown,Calhoun,442
+62009,Benld,Macoupin,1720
+62010,Bethalto,Madison,11409
+62011,Bingham,Fayette,224
+62012,Brighton,Jersey,6510
+62013,Brussels,Calhoun,619
+62014,Bunker Hill,Macoupin,4063
+62015,Butler,Montgomery,690
+62016,Carrollton,Greene,3572
+62017,Coffeen,Montgomery,927
+62018,Cottage Hills,Madison,3017
+62019,Donnellson,Bond,298
+62021,Dorsey,Madison,1207
+62022,Dow,Jersey,1103
+62023,Eagarville,Macoupin,124
+62024,East Alton,Madison,9799
+62025,Edwardsville,Madison,34960
+62027,Eldred,Greene,589
+62028,Elsah,Jersey,1119
+62030,Fidelity,Jersey,203
+62031,Fieldon,Jersey,800
+62032,Fillmore,Montgomery,749
+62033,Gillespie,Macoupin,4539
+62034,Glen Carbon,Madison,13487
+62035,Godfrey,Madison,16080
+62036,Golden Eagle,Calhoun,706
+62037,Grafton,Jersey,1990
+62040,Granite City,Madison,42149
+62044,Greenfield,Greene,2262
+62045,Hamburg,Calhoun,533
+62046,Hamel,Madison,709
+62047,Hardin,Calhoun,1691
+62048,Hartford,Madison,1965
+62049,Hillsboro,Montgomery,8513
+62050,Hillview,Greene,376
+62051,Irving,Montgomery,687
+62052,Jerseyville,Jersey,12418
+62053,Kampsville,Calhoun,550
+62054,Kane,Greene,606
+62056,Litchfield,Montgomery,8507
+62058,Livingston,Madison,704
+62059,Lovejoy,St. Clair,411
+62060,Madison,Madison,4135
+62061,Marine,Madison,1631
+62062,Maryville,Madison,8078
+62063,Medora,Jersey,991
+62065,Michael,Calhoun,127
+62067,Moro,Madison,2202
+62069,Mount Olive,Macoupin,3184
+62070,Mozier,Calhoun,16
+62074,New Douglas,Madison,1068
+62075,Nokomis,Montgomery,3595
+62076,Ohlman,Montgomery,122
+62077,Panama,Montgomery,288
+62078,Patterson,Greene,107
+62079,Piasa,Macoupin,323
+62080,Ramsey,Fayette,2355
+62081,Rockbridge,Greene,318
+62082,Roodhouse,Greene,2742
+62083,Rosamond,Christian,167
+62084,Roxana,Madison,1511
+62085,Sawyerville,Macoupin,162
+62086,Sorento,Bond,1224
+62087,South Roxana,Madison,2073
+62088,Staunton,Macoupin,6647
+62089,Taylor Springs,Montgomery,439
+62090,Venice,Madison,1417
+62091,Walshville,Montgomery,399
+62092,White Hall,Greene,2894
+62093,Wilsonville,Macoupin,434
+62094,Witt,Montgomery,1104
+62095,Wood River,Madison,10471
+62097,Worden,Madison,2893
+62098,Wrights,Greene,18
+62201,East Saint Louis,St. Clair,6853
+62203,East Saint Louis,St. Clair,8366
+62204,East Saint Louis,St. Clair,8133
+62205,East Saint Louis,St. Clair,7781
+62206,East Saint Louis,St. Clair,15046
+62207,East Saint Louis,St. Clair,9090
+62208,Fairview Heights,St. Clair,16544
+62214,Addieville,Washington,1332
+62215,Albers,Clinton,2103
+62216,Aviston,Clinton,2736
+62217,Baldwin,Randolph,773
+62218,Bartelso,Clinton,1713
+62219,Beckemeyer,Clinton,1170
+62220,Belleville,St. Clair,17722
+62221,Belleville,St. Clair,30301
+62223,Belleville,St. Clair,16004
+62225,Scott Air Force Base,St. Clair,5209
+62226,Belleville,St. Clair,28914
+62230,Breese,Clinton,6308
+62231,Carlyle,Clinton,7313
+62232,Caseyville,St. Clair,6828
+62233,Chester,Randolph,9521
+62234,Collinsville,Madison,32474
+62236,Columbia,Monroe,14067
+62237,Coulterville,Randolph,2398
+62238,Cutler,Perry,632
+62239,Dupo,St. Clair,4595
+62240,East Carondelet,St. Clair,1507
+62241,Ellis Grove,Randolph,878
+62242,Evansville,Randolph,1365
+62243,Freeburg,St. Clair,5757
+62244,Fults,Monroe,1006
+62245,Germantown,Clinton,1795
+62246,Greenville,Bond,9964
+62248,Hecker,Monroe,396
+62249,Highland,Madison,15574
+62250,Hoffman,Clinton,468
+62253,Keyesport,Clinton,544
+62254,Lebanon,St. Clair,6189
+62255,Lenzburg,St. Clair,1332
+62257,Marissa,St. Clair,2416
+62258,Mascoutah,St. Clair,9491
+62260,Millstadt,St. Clair,7537
+62261,Modoc,Randolph,52
+62262,Mulberry Grove,Bond,1619
+62263,Nashville,Washington,4912
+62264,New Athens,St. Clair,3754
+62265,New Baden,Clinton,4072
+62266,New Memphis,Clinton,102
+62268,Oakdale,Washington,861
+62269,O Fallon,St. Clair,31567
+62271,Okawville,Washington,1994
+62272,Percy,Randolph,1859
+62273,Pierron,Bond,147
+62274,Pinckneyville,Perry,7699
+62275,Pocahontas,Bond,3824
+62277,Prairie Du Rocher,Randolph,1197
+62278,Red Bud,Randolph,6426
+62279,Renault,Monroe,0
+62280,Rockwood,Randolph,550
+62281,Saint Jacob,Madison,2856
+62282,Saint Libory,St. Clair,389
+62284,Smithboro,Bond,574
+62285,Smithton,St. Clair,4510
+62286,Sparta,Randolph,6230
+62288,Steeleville,Randolph,2891
+62289,Summerfield,St. Clair,330
+62292,Tilden,Randolph,895
+62293,Trenton,Clinton,4437
+62294,Troy,Madison,14156
+62295,Valmeyer,Monroe,1493
+62297,Walsh,Randolph,452
+62298,Waterloo,Monroe,16826
+62301,Quincy,Adams,32350
+62305,Quincy,Adams,19081
+62311,Augusta,Hancock,701
+62312,Barry,Pike,1951
+62313,Basco,Hancock,372
+62314,Baylis,Pike,479
+62316,Bowen,Hancock,662
+62319,Camden,Schuyler,219
+62320,Camp Point,Adams,2494
+62321,Carthage,Hancock,3806
+62323,Chambersburg,Pike,241
+62324,Clayton,Adams,1112
+62325,Coatsburg,Adams,501
+62326,Colchester,Mcdonough,2510
+62330,Dallas City,Hancock,1786
+62334,Elvaston,Hancock,167
+62336,Ferris,Hancock,21
+62338,Fowler,Adams,1401
+62339,Golden,Adams,829
+62340,Griggsville,Pike,1906
+62341,Hamilton,Hancock,3425
+62343,Hull,Pike,860
+62344,Huntsville,Schuyler,5
+62345,Kinderhook,Pike,382
+62346,La Prairie,Adams,160
+62347,Liberty,Adams,1992
+62348,Lima,Adams,155
+62349,Loraine,Adams,695
+62351,Mendon,Adams,1708
+62352,Milton,Pike,289
+62353,Mount Sterling,Brown,5224
+62354,Nauvoo,Hancock,1484
+62355,Nebo,Pike,745
+62356,New Canton,Pike,402
+62357,New Salem,Pike,462
+62358,Niota,Hancock,779
+62359,Paloma,Adams,159
+62360,Payson,Adams,1651
+62361,Pearl,Pike,362
+62362,Perry,Pike,303
+62363,Pittsfield,Pike,5694
+62365,Plainville,Adams,477
+62366,Pleasant Hill,Pike,1637
+62367,Plymouth,Hancock,1021
+62370,Rockport,Pike,407
+62373,Sutter,Hancock,203
+62374,Tennessee,Mcdonough,337
+62375,Timewell,Brown,335
+62376,Ursa,Adams,1110
+62378,Versailles,Brown,1047
+62379,Warsaw,Hancock,1947
+62380,West Point,Hancock,552
+62401,Effingham,Effingham,18886
+62410,Allendale,Wabash,1377
+62411,Altamont,Effingham,4145
+62413,Annapolis,Crawford,277
+62414,Beecher City,Effingham,1888
+62417,Bridgeport,Lawrence,2920
+62418,Brownstown,Fayette,2180
+62419,Calhoun,Richland,185
+62420,Casey,Clark,4675
+62421,Claremont,Richland,593
+62422,Cowden,Shelby,1014
+62423,Dennison,Clark,642
+62424,Dieterich,Effingham,2421
+62425,Dundas,Richland,431
+62426,Edgewood,Effingham,891
+62427,Flat Rock,Crawford,1781
+62428,Greenup,Cumberland,2915
+62431,Herrick,Shelby,1030
+62432,Hidalgo,Jasper,521
+62433,Hutsonville,Crawford,994
+62434,Ingraham,Clay,365
+62436,Jewett,Cumberland,713
+62438,Lakewood,Shelby,334
+62439,Lawrenceville,Lawrence,7107
+62440,Lerna,Coles,1288
+62441,Marshall,Clark,6707
+62442,Martinsville,Clark,2643
+62443,Mason,Effingham,1538
+62444,Mode,Shelby,370
+62445,Montrose,Effingham,1278
+62446,Mount Erie,Wayne,372
+62447,Neoga,Cumberland,3366
+62448,Newton,Jasper,5383
+62449,Oblong,Crawford,2963
+62450,Olney,Richland,12216
+62451,Palestine,Crawford,1958
+62452,Parkersburg,Richland,293
+62454,Robinson,Crawford,11166
+62458,Saint Elmo,Fayette,2077
+62459,Sainte Marie,Jasper,344
+62460,Saint Francisville,Lawrence,1297
+62461,Shumway,Effingham,724
+62462,Sigel,Shelby,942
+62463,Stewardson,Shelby,1230
+62465,Strasburg,Shelby,960
+62466,Sumner,Lawrence,4605
+62467,Teutopolis,Effingham,4259
+62468,Toledo,Cumberland,2492
+62469,Trilla,Coles,517
+62471,Vandalia,Fayette,10306
+62473,Watson,Effingham,1262
+62474,Westfield,Clark,897
+62475,West Liberty,Jasper,503
+62476,West Salem,Edwards,1533
+62477,West Union,Clark,732
+62478,West York,Crawford,409
+62479,Wheeler,Jasper,1027
+62480,Willow Hill,Jasper,485
+62481,Yale,Jasper,485
+62501,Argenta,Macon,2585
+62510,Assumption,Christian,1496
+62512,Beason,Logan,456
+62513,Blue Mound,Macon,1724
+62514,Boody,Macon,305
+62515,Buffalo,Sangamon,1164
+62517,Bulpitt,Christian,214
+62518,Chestnut,Logan,159
+62519,Cornland,Logan,90
+62520,Dawson,Sangamon,1576
+62521,Decatur,Macon,35261
+62522,Decatur,Macon,15379
+62523,Decatur,Macon,1382
+62526,Decatur,Macon,31544
+62530,Divernon,Sangamon,1356
+62531,Edinburg,Christian,1647
+62532,Elwin,Macon,70
+62533,Farmersville,Montgomery,776
+62534,Findlay,Shelby,1307
+62535,Forsyth,Macon,3011
+62536,Glenarm,Sangamon,667
+62537,Harristown,Macon,80
+62538,Harvel,Montgomery,537
+62539,Illiopolis,Sangamon,1247
+62540,Kincaid,Christian,1549
+62541,Lake Fork,Logan,21
+62543,Latham,Logan,483
+62544,Macon,Macon,1677
+62545,Mechanicsburg,Sangamon,1158
+62546,Morrisonville,Christian,1740
+62547,Mount Auburn,Christian,992
+62548,Mount Pulaski,Logan,2443
+62549,Mt Zion,Macon,6354
+62550,Moweaqua,Shelby,2790
+62551,Niantic,Macon,743
+62553,Oconee,Shelby,528
+62554,Oreana,Macon,1290
+62555,Owaneco,Christian,456
+62556,Palmer,Christian,344
+62557,Pana,Christian,7127
+62558,Pawnee,Sangamon,3341
+62560,Raymond,Montgomery,1355
+62561,Riverton,Sangamon,5405
+62563,Rochester,Sangamon,5567
+62565,Shelbyville,Shelby,7046
+62567,Stonington,Christian,1030
+62568,Taylorville,Christian,15612
+62570,Tovey,Christian,454
+62571,Tower Hill,Shelby,1628
+62572,Waggoner,Montgomery,488
+62573,Warrensburg,Macon,1803
+62601,Alexander,Morgan,293
+62610,Alsey,Scott,119
+62611,Arenzville,Cass,1108
+62612,Ashland,Cass,1832
+62613,Athens,Menard,3862
+62615,Auburn,Sangamon,5519
+62617,Bath,Mason,659
+62618,Beardstown,Cass,7238
+62621,Bluffs,Scott,1286
+62622,Bluff Springs,Cass,42
+62624,Browning,Schuyler,427
+62625,Cantrall,Sangamon,759
+62626,Carlinville,Macoupin,7603
+62627,Chandlerville,Cass,910
+62628,Chapin,Morgan,735
+62629,Chatham,Sangamon,14597
+62630,Chesterfield,Macoupin,430
+62631,Concord,Morgan,261
+62633,Easton,Mason,562
+62634,Elkhart,Logan,843
+62635,Emden,Logan,666
+62638,Franklin,Morgan,1242
+62639,Frederick,Schuyler,294
+62640,Girard,Macoupin,3668
+62642,Greenview,Menard,1334
+62643,Hartsburg,Logan,490
+62644,Havana,Mason,4921
+62649,Hettick,Macoupin,603
+62650,Jacksonville,Morgan,26524
+62655,Kilbourne,Mason,367
+62656,Lincoln,Logan,19280
+62661,Loami,Sangamon,1646
+62663,Manchester,Scott,258
+62664,Mason City,Mason,3182
+62665,Meredosia,Morgan,1399
+62666,Middletown,Logan,580
+62667,Modesto,Macoupin,486
+62668,Murrayville,Morgan,1349
+62670,New Berlin,Sangamon,2784
+62671,New Holland,Logan,596
+62672,Nilwood,Macoupin,176
+62673,Oakford,Menard,416
+62674,Palmyra,Macoupin,1393
+62675,Petersburg,Menard,5943
+62677,Pleasant Plains,Sangamon,2295
+62681,Rushville,Schuyler,5501
+62682,San Jose,Mason,963
+62684,Sherman,Sangamon,5840
+62685,Shipman,Macoupin,2310
+62688,Tallula,Menard,699
+62689,Thayer,Sangamon,567
+62690,Virden,Macoupin,3957
+62691,Virginia,Cass,2020
+62692,Waverly,Morgan,2152
+62693,Williamsville,Sangamon,1565
+62694,Winchester,Scott,3018
+62695,Woodson,Morgan,200
+62701,Springfield,Sangamon,1147
+62702,Springfield,Sangamon,33563
+62703,Springfield,Sangamon,29830
+62704,Springfield,Sangamon,40672
+62707,Springfield,Sangamon,7097
+62801,Centralia,Marion,21185
+62803,Hoyleton,Washington,1142
+62806,Albion,Edwards,3419
+62807,Alma,Marion,768
+62808,Ashley,Washington,1490
+62809,Barnhill,Wayne,150
+62810,Belle Rive,Jefferson,908
+62811,Bellmont,Wabash,290
+62812,Benton,Franklin,10881
+62814,Bluford,Jefferson,2046
+62815,Bone Gap,Edwards,284
+62816,Bonnie,Jefferson,1276
+62817,Broughton,Hamilton,433
+62818,Browns,Edwards,251
+62819,Buckner,Franklin,382
+62820,Burnt Prairie,White,183
+62821,Carmi,White,7145
+62822,Christopher,Franklin,2960
+62823,Cisne,Wayne,1681
+62824,Clay City,Clay,1888
+62825,Coello,Franklin,192
+62827,Crossville,White,1215
+62828,Dahlgren,Hamilton,1376
+62829,Dale,Hamilton,21
+62830,Dix,Jefferson,1229
+62831,Du Bois,Washington,383
+62832,Du Quoin,Perry,8785
+62833,Ellery,Edwards,420
+62835,Enfield,White,962
+62836,Ewing,Franklin,771
+62837,Fairfield,Wayne,8826
+62838,Farina,Fayette,1853
+62839,Flora,Clay,6401
+62841,Freeman Spur,Williamson,150
+62842,Geff,Wayne,743
+62843,Golden Gate,Wayne,184
+62844,Grayville,White,2081
+62846,Ina,Jefferson,2613
+62848,Irvington,Washington,692
+62849,Iuka,Marion,2085
+62850,Johnsonville,Wayne,348
+62851,Keenes,Wayne,150
+62852,Keensburg,Wabash,57
+62853,Kell,Marion,894
+62854,Kinmundy,Marion,1495
+62856,Logan,Franklin,373
+62858,Louisville,Clay,2713
+62859,Mc Leansboro,Hamilton,5683
+62860,Macedonia,Hamilton,561
+62861,Maunie,White,166
+62862,Mill Shoals,White,359
+62863,Mount Carmel,Wabash,9611
+62864,Mount Vernon,Jefferson,23498
+62865,Mulkeytown,Franklin,1977
+62867,New Haven,Gallatin,486
+62868,Noble,Richland,1986
+62869,Norris City,White,2490
+62870,Odin,Marion,2211
+62871,Omaha,Gallatin,698
+62872,Opdyke,Jefferson,1077
+62874,Orient,Franklin,426
+62875,Patoka,Marion,1110
+62876,Radom,Washington,184
+62877,Richview,Washington,516
+62878,Rinard,Wayne,483
+62879,Sailor Springs,Clay,78
+62880,Saint Peter,Fayette,712
+62881,Salem,Marion,10700
+62882,Sandoval,Marion,2437
+62883,Scheller,Jefferson,828
+62884,Sesser,Franklin,2637
+62885,Shobonier,Fayette,659
+62886,Sims,Wayne,257
+62887,Springerton,White,497
+62888,Tamaroa,Perry,2070
+62889,Texico,Jefferson,885
+62890,Thompsonville,Franklin,2737
+62891,Valier,Franklin,715
+62892,Vernon,Marion,377
+62893,Walnut Hill,Marion,1054
+62894,Waltonville,Jefferson,1074
+62895,Wayne City,Wayne,1897
+62896,West Frankfort,Franklin,11971
+62897,Whittington,Franklin,406
+62898,Woodlawn,Jefferson,2184
+62899,Xenia,Clay,1815
+62901,Carbondale,Jackson,26255
+62902,Carbondale,Jackson,4358
+62903,Carbondale,Jackson,3242
+62905,Alto Pass,Union,560
+62906,Anna,Union,6582
+62907,Ava,Jackson,2007
+62908,Belknap,Johnson,561
+62910,Brookport,Massac,2367
+62912,Buncombe,Johnson,1307
+62914,Cairo,Alexander,2375
+62915,Cambria,Williamson,431
+62916,Campbell Hill,Jackson,938
+62917,Carrier Mills,Saline,2154
+62918,Carterville,Williamson,10177
+62919,Cave In Rock,Hardin,1060
+62920,Cobden,Union,3219
+62921,Colp,Williamson,332
+62922,Creal Springs,Williamson,2764
+62923,Cypress,Johnson,468
+62924,De Soto,Jackson,2956
+62926,Dongola,Union,2373
+62927,Dowell,Jackson,369
+62928,Eddyville,Pope,192
+62930,Eldorado,Saline,5915
+62931,Elizabethtown,Hardin,1484
+62932,Elkville,Jackson,1400
+62933,Energy,Williamson,1160
+62934,Equality,Gallatin,720
+62935,Galatia,Saline,1994
+62938,Golconda,Pope,2994
+62939,Goreville,Johnson,2936
+62940,Gorham,Jackson,308
+62941,Grand Chain,Pulaski,740
+62942,Grand Tower,Jackson,624
+62943,Grantsburg,Johnson,372
+62946,Harrisburg,Saline,12530
+62947,Herod,Pope,522
+62948,Herrin,Williamson,13248
+62949,Hurst,Williamson,731
+62950,Jacob,Jackson,204
+62951,Johnston City,Williamson,4604
+62952,Jonesboro,Union,3144
+62953,Joppa,Massac,274
+62954,Junction,Gallatin,456
+62956,Karnak,Pulaski,940
+62957,Mc Clure,Alexander,867
+62958,Makanda,Jackson,2134
+62959,Marion,Williamson,28115
+62960,Metropolis,Massac,10755
+62961,Millcreek,Union,31
+62962,Miller City,Alexander,0
+62963,Mound City,Pulaski,744
+62964,Mounds,Pulaski,1168
+62965,Muddy,Saline,95
+62966,Murphysboro,Jackson,15049
+62967,New Burnside,Johnson,242
+62969,Olive Branch,Alexander,438
+62970,Olmsted,Pulaski,685
+62972,Ozark,Johnson,958
+62974,Pittsburg,Williamson,1653
+62975,Pomona,Jackson,169
+62976,Pulaski,Pulaski,402
+62977,Raleigh,Saline,754
+62979,Ridgway,Gallatin,1020
+62982,Rosiclare,Hardin,877
+62983,Royalton,Franklin,1476
+62984,Shawneetown,Gallatin,1673
+62985,Simpson,Johnson,610
+62987,Stonefort,Saline,1494
+62988,Tamms,Alexander,1444
+62990,Thebes,Alexander,1036
+62992,Ullin,Pulaski,751
+62994,Vergennes,Jackson,678
+62995,Vienna,Johnson,6034
+62996,Villa Ridge,Pulaski,520
+62997,Willisville,Perry,617
+62998,Wolf Lake,Union,316
+62999,Zeigler,Franklin,1771
